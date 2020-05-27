@@ -6,7 +6,7 @@
 <script>
 import TaskList from "../components/TaskList.vue";
 export default {
-    name: "ToDoPage",
+    name: "TodoPage",
     components: {
         TaskList
     }

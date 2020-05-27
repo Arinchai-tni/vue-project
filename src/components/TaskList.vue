@@ -129,6 +129,7 @@ export default {
     width: 250px;
     height: 400px;
     padding: 10px 0;
+    background-color: white;
 }
 .drag-el{
     border: 1px solid black;
@@ -137,7 +138,7 @@ export default {
     border-radius: 10px;
     margin: 5px auto;
     padding-top: 15px;
-    
+    background-color: white;
 }
 .add-task{
     padding: 30px;
